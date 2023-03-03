@@ -33,3 +33,5 @@ function countDown(number) {
         number--
     }
 }
+
+countDown(10);
